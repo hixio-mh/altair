@@ -65,7 +65,7 @@
     "comment-regex": "^1.0.1",
     "cookie-parser": "^1.4.4",
     "core-js": "^3.1.4",
-    "crypto-js": "3.3.0",
+    "crypto-js": "4.2.0",
     "curlup": "^1.0.0",
     "deepmerge": "^4.2.2",
     "dexie": "^3.0.3",
